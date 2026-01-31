@@ -1,6 +1,6 @@
 ---
 
-## 📄 `README.md`
+## README.md
 
 ````markdown
 # Artist Name Availability Checker
@@ -190,4 +190,5 @@ asyncio
 
 * `asyncio` ist in Python ≥3.8 **bereits enthalten**, kann aber für Klarheit drin bleiben
 * Keine unnötigen Abhängigkeiten – bewusst minimal gehalten
+
 
