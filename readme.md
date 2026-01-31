@@ -1,8 +1,6 @@
----
+readme.md
 
-## README.md
-
-````markdown
+```markdown
 # Artist Name Availability Checker
 
 An asynchronous Python tool to check the availability of artist / band names across multiple public data sources, domains, and social media platforms.
@@ -190,5 +188,6 @@ asyncio
 
 * `asyncio` ist in Python ≥3.8 **bereits enthalten**, kann aber für Klarheit drin bleiben
 * Keine unnötigen Abhängigkeiten – bewusst minimal gehalten
+
 
 
