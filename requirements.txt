@@ -1,0 +1,9 @@
+asyncio
+aiohttp
+sockets
+beautifulsoup4
+json # system intern
+csv  # system intern
+codecs # system intern
+random # system intern
+datetime # system intern
